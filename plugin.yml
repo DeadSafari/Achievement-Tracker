@@ -1,0 +1,5 @@
+name: AchivementTracker
+author: DeadSafari
+api: 5.0.0
+main: DeadSafari\AT\Main
+version: 1.0.0
